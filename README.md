@@ -31,7 +31,7 @@ source venv_crud/bin/activate
 ### Montar los requerimientos
 
 ``` shell
-pip install -r 
+pip install -r requirements.pip
 ```
 
 ### Ejecuta el programa
