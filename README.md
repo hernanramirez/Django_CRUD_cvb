@@ -9,7 +9,12 @@ Ejemplo de CRUD con Django 1.9.2 basado en  https://platzi.com/blog/django-class
 ``` shell
 mkdir DemoCRUDCursos
 ```
+
+### Entrar en el directorio de trabajo
+
+``` shell
 cd DemoCRUDCursos
+```
 
 ### Clonar el repo
 
